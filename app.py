@@ -37,7 +37,7 @@ if 'avg_score' not in st.session_state:
 # --------------- INTRODUCTION ----------------
 if st.session_state.stage == 'intro':
     st.image(
-        "https://cdn5.vectorstock.com/i/1000x1000/49/59/robot-or-chatbot-logo-template-chat-bot-icon-vector-35064959.jpg",
+        "https://png.pngtree.com/png-clipart/20230401/original/pngtree-smart-chatbot-cartoon-clipart-png-image_9015126.png",
         width=70
     )
     st.info(intro_prompt())
